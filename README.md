@@ -35,28 +35,60 @@
 
 ## 📌 Projects
 
-### 🔹 Vole Machine Simulator
+###  Vole Machine Simulator
 
-A CPU simulator built in C++ with a GUI interface.
-Includes memory, registers, ALU, and instruction execution (Fetch/Decode cycle).
-
----
-
-### 🔹 Phishing Email Detector
-
-A rule-based system that detects phishing emails using keyword analysis and scoring.
+A CPU simulator built in C++ with a GUI interface, implementing memory, registers, ALU, and instruction execution cycle (Fetch/Decode).
 
 ---
 
-### 🔹 Binary System Tools
+###  CPU Scheduling Simulator
 
-Programs for binary conversion and generating binary sequences with constraints.
+Simulation of multiple CPU scheduling algorithms including:
+AG, Priority, Round Robin, and Shortest Job First (SJF), with performance comparison.
 
 ---
 
-### 🔹 Web Signup System
+###  Smart Home System (Design Patterns)
 
-A frontend system with validation and local storage for managing user data.
+A full smart home system built using advanced design patterns such as:
+Factory, Command, Observer, and Adapter patterns.
+
+---
+
+###  Neural Network (Dog vs Cat Classifier)
+
+A machine learning model that classifies images of dogs and cats with high accuracy.
+
+---
+
+###  GMM vs Gaussian Model (MNIST)
+
+Comparison between Gaussian Model and Gaussian Mixture Model (GMM) achieving up to 97% accuracy on MNIST dataset.
+
+---
+
+###  Board Games Collection
+
+A collection of 9 different board games implemented using object-oriented programming.
+
+---
+
+###  Airport Reservation System
+
+A system for managing flight bookings and reservations.
+
+---
+
+###  Library Management Website
+
+A web-based system for managing books and users.
+
+---
+
+###  Sudoku Game
+
+A complete implementation of the Sudoku game.
+
 
 ---
 
