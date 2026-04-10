@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Youssif Mohamed
 
-<!--
-**youssifmy/youssifmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Passionate about Software Development & Web Development
+🚀 Currently learning about Ai & Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* C++
+* Python
+* JavaScript
+* HTML & CSS
+* Problem Solving
+
+---
+
+## 📌 Projects
+
+* 🔹 Vole Machine Simulator
+* 🔹 Phishing Email Detector
+* 🔹 Binary Tools
+
+---
+
+## 📈 Currently Learning
+
+* Backend Development
+* Databases
+* Machine Learning 
+
+---
+
+## 📫 Contact Me
+
+* Email: youssifm11605@gmail.com
